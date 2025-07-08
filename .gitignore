@@ -1,0 +1,13 @@
+# Ignore virtual environments
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebooks auto-saves
+.ipynb_checkpoints/
+
+# Ignore system/IDE files
+.DS_Store
+.env
